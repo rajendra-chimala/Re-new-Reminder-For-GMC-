@@ -12,4 +12,6 @@ Re-new Reminder For GMC  which remind the student for the book renew, send messa
 * Digital ID card.
 
 # In this project i try to solve the real world problem which I fase in my campus.
+* What's app message send system.
+* When time is over send message on whats app.
   
